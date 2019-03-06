@@ -11,7 +11,9 @@ In its roots, as depicted in the diagram below, this system comprises of a robot
 The robotic welding system shown above encounters errors along the Y axis that need to be corrected for, based on information received by the sensor that is mounted onto the arm.
 
 Simulate an environment with the following:
-- Robot: That receives move commands to be executed at 1Hz but randomly misses the target location- Sensors: You can choose any number of sensors and use any mathematical functions to simulate the data sent by the sensor	- Closed loop controller: That sends move commands to the robot and receives sensor inputs that can be used for correcting the path
+- Robot: That receives move commands to be executed at 1Hz but randomly misses the target location
+- Sensors: You can choose any number of sensors and use any mathematical functions to simulate the data sent by the sensor	
+- Closed loop controller: That sends move commands to the robot and receives sensor inputs that can be used for correcting the path
 	
 The following requirements need to be met with:
 - Provide a graphical user interface that can be used to turn the sensors on or off
