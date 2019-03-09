@@ -27,6 +27,6 @@ Your work will be evaluated based on how deep into the optional requirements you
 
 You can use any programming language, operating system and off the shelf libraries to build this system out.
 
-Please commit your final code to a public Github repository along with a software design diagram, installation instructions and email back the link to your recruiter.
+Please commit your final code to a public Github repository along with a software design diagram, installation instructions and email back the link to your recruiter. Please do not fork this repository.
 
 
