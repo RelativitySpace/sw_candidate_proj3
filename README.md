@@ -31,7 +31,7 @@ Submission instructions:
 
 - Commit your code to a public Github repository
 - Include a software design diagram
-- Include installation instructions
+- Include installation instructions for a vanilla OS
 - Email the link to your repository to our recruiter at least a day before the review call 
 
 Please do not fork this repository.
