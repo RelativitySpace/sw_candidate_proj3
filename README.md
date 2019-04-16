@@ -21,7 +21,7 @@ The following requirements need to be met with:
 - Use a monitoring tool to visualize the data in real-time (E.g. Grafana, Kibana)
 
 Your work will be evaluated based on how deep into the optional requirements you go:
-- Build out the sensors and the controller as separate processes that can communicate with each other
+- Build out the sensors and the controller as separate programs that can communicate with each other in real-time
 - Monitor the error along the Y axis in the simulated robot, in real-time
 - Add an additional feature to the user interface that can be used to turn the controller on or off without breaking the system
 
